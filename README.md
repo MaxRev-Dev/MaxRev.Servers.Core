@@ -5,9 +5,9 @@
 With this package you can easily start lightweight server locally on any free port you want (with admin rights even under 1024 ports on Linux).<br>
 NuGet: [MaxRev.Servers.Core](https://www.nuget.org/packages/MaxRev.Servers.Core/)
 
-## Example server: 
-Here you can view basic core initializations and some API definitions
-[VstupInfoParser](https://github.com/MaxRev-Dev/VstupInfoParser)
+### Example server: 
+Here you can view basic core initializations and some API definitions at 
+[VstupInfoParser](https://github.com/MaxRev-Dev/VstupInfoParser) repo
 
 ### Features 
 
